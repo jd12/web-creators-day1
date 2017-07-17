@@ -17,7 +17,7 @@ and satisfies the following criteria:
 
 7. Use a phrase element to format the terms in [bold text](https://www.w3schools.com/html/html_formatting.asp).  
 
-When you are done, your file should look like the example: Hwk1FinishedExample.png.
+When you are done, your file should look like the example: [Hwk1FinishedExample.png](Hwk1FinishedExample.png).
 
 
 Name your file according to this scheme:
