@@ -1,6 +1,6 @@
 # Web Creators Day 1
 
-Open [this link](https://www.w3schools.com/html/html_basic.asp) in a new tab by right clicking and then selecting `Open in New Tab`
+Open [this link](https://www.w3schools.com/html/html_basic.asp) in a new tab by right clicking on the blue text and then selecting `Open Link in New Tab`
 
 ### Web Design Steps
 
