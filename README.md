@@ -1,5 +1,7 @@
 # Web Creators Day 1
 
+Open [this link](https://www.w3schools.com/html/html_basic.asp) in a new tab by right clicking and then selecting `Open in New Tab`
+
 ### Web Design Steps
 
 #### Determine the intended Audience
