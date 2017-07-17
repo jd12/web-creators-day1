@@ -9,7 +9,7 @@ and satisfies the following criteria:
 
 3. The first line is formatted with [heading level 1](https://www.w3schools.com/html/html_headings.asp).
 
-4  The next block of text is wrapped in a [paragraph element](https://www.w3schools.com/html/html_paragraphs.asp).
+4. The next block of text is wrapped in a [paragraph element](https://www.w3schools.com/html/html_paragraphs.asp).
 
 5. The line:  "Important qualities of strategic behavior are:" is wrapped in another paragraph element.
 
