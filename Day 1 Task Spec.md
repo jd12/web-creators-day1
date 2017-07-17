@@ -5,7 +5,7 @@ and satisfies the following criteria:
 
 1. Your file must have the following tags: doctype, html, head, title, body as in the text.
 
-2. The title text must match the finished example and be <a href="https://www.w3schools.com/html/html_styles.asp">centered</a>.
+2. The title text must match the finished example and be <a href="https://www.w3schools.com/html/html_styles.asp" target="_blank">centered</a>.
 
 3. The first line is formatted with [heading level 1](https://www.w3schools.com/html/html_headings.asp).
 
