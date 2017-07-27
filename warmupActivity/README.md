@@ -10,9 +10,9 @@
 
 4. Position your cursor in the body section and code the header element with the text, "Trillium Media Design in an h1 element element like so: 
 `
-<header>
+    <header>
 	<h1>Trillium Media Design</h1>
-</header>
+    </header>
 `
 
 5. Code a nav element to contain text that will indicate the main navigation for the website. Configure bold text using the b element and use the `&nbsp` special character (which stands for Nonbreaking space) to add extra blank space like so: 
