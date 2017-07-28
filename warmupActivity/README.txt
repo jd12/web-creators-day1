@@ -5,6 +5,7 @@
 
 2. Take the template.html file and replace the contents of the index.html file so that you end up with this:
 [insert image]
+http://t0.gstatic.com/images?q=tbn:ANd9GcTphNKysnhM1oFlbvJTeDTzs-_f9ccW3cNmyvXs-cMUK2IPCd_izWJQQXsA
 
 3. Modify the title of the web page [the text that appears in the tab] by changing the text between the `<title>` and `</title>` tags to `Trillium Media Design`
 
