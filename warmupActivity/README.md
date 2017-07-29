@@ -4,7 +4,7 @@
 ![New Project](images/newProject.png)
 
 2. Take the template.html file and replace the contents of the index.html file so that you end up with this:
-[insert image]
+![Template](images/template.png)
 
 3. Modify the title of the web page [the text that appears in the tab] by changing the text between the `<title>` and `</title>` tags to `Trillium Media Design`
 
