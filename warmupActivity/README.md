@@ -1,7 +1,7 @@
 # Warmup Activity Day 1 
 
 1. Start a new project in your Thimble account. It should look like this: 
-[insert image] 
+![New Project](images/newProject.png)
 
 2. Take the template.html file and replace the contents of the index.html file so that you end up with this:
 [insert image]
