@@ -13,11 +13,7 @@
 ![Header](images/header.png)
 
 5. Code a nav element to contain text that will indicate the main navigation for the website. Configure bold text using the b element and use the `&nbsp` special character (which stands for Nonbreaking space) to add extra blank space like so: 
-<pre>
-<nav>
-	<b>Home &nbsp; Services &nbsp; Contact</b>
-</nav>
-</pre>
+![Nav Bar](images/nav.png)
 
 6. Code the content within a div element that contains the h2 and paragraph elements. 
 <pre>
