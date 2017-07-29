@@ -23,4 +23,5 @@
 
 Replace "Your Name Here" with your actual name. 
 
-8. Compare your site to the [insert image] and make any tweaks. 
+8. Compare your site to the below image and make any tweaks. 
+![Trillium Initial](images/trilliumInitial.png)
