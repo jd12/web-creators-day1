@@ -19,11 +19,7 @@
 ![Content](images/content.png)
 
 7. Configure the footer element to contain a copyright notice displayed in small font size and italic font. Be careful to properly nest the elements as shown here: 
-<pre>
-<footer>
-	<small><i>Copyright &copy; 2017 Your Name Here</i></small>
-</footer>
-</pre>
+![Footer](images/footer.png)
 
 Replace "Your Name Here" with your actual name. 
 
