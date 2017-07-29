@@ -12,17 +12,11 @@
 4. Position your cursor in the body section and code the header element with the text, "Trillium Media Design" in an h1 element element like so: <br>
 ![Header](images/header.png)
 
-5. Code a nav element to contain text that will indicate the main navigation for the website. Configure bold text using the b element and use the `&nbsp` special character (which stands for Nonbreaking space) to add extra blank space like so: 
+5. Code a nav element to contain text that will indicate the main navigation for the website. Configure bold text using the b element and use the `&nbsp` special character (which stands for Nonbreaking space) to add extra blank space like so: <br>
 ![Nav Bar](images/nav.png)
 
 6. Code the content within a div element that contains the h2 and paragraph elements. 
-<pre>
-<div>
-	<h2>New Media and Web Design</h2>
-	<p>Trillium Media Design will bring your company's Web presence to the next level. We offer a comprehensive range of services.</p>
-	<h2>Meeting your Business Needs</h2>
-	<p>Our expert designers are creative and eager to work with you. </p>
-</div>
+![Content](images/content.png)
 
 7. Configure the footer element to contain a copyright notice displayed in small font size and italic font. Be careful to properly nest the elements as shown here: 
 <pre>
