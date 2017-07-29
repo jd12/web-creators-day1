@@ -9,12 +9,8 @@
 3. Modify the title of the web page [the text that appears in the tab] by changing the text between the `<title>` and `</title>` tags to `Trillium Media Design` like so: 
 ![Title](images/title.png)
 
-4. Position your cursor in the body section and code the header element with the text, "Trillium Media Design in an h1 element element like so: 
-
-    \<header>
-	\<h1>Trillium Media Design</h1>
-    \</header>
-
+4. Position your cursor in the body section and code the header element with the text, "Trillium Media Design" in an h1 element element like so: <br>
+![Header](images/header.png)
 
 5. Code a nav element to contain text that will indicate the main navigation for the website. Configure bold text using the b element and use the `&nbsp` special character (which stands for Nonbreaking space) to add extra blank space like so: 
 <pre>
