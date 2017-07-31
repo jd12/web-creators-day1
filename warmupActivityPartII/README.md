@@ -28,7 +28,7 @@ Many websites have multiple websites associated with it. We are going to create 
   - Modify the title to "Trillium Media Design - Contact" 
   
   - Delete the code between the opening and closing div tag and replace it with: 
-  ![Contact Content](contactContent.png]
+  ![Contact Content](contactContent.png)
   
   - Your page should look like this:
   ![Contact Final](contactFinal.png)
