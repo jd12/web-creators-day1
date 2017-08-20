@@ -19,3 +19,7 @@ Make sure to replace the starter code in your `index.html` with the code from [t
 ## jobs.html
 
 ![Jobs](images/jobs.png)
+
+## Done 
+
+Great job. You are now ready to tackle [Day 2 Warmup](https://github.com/jd12/web-creators-day2/tree/master/warmupActivity)
