@@ -32,4 +32,8 @@ Many websites have multiple websites associated with it. We are going to create 
   
   - Your page should look like this:
   ![Contact Final](images/contactFinal.png)
+  
+  ## Done 
+  
+  Great job. Now move on to [Day 1 Challenge](../day1challenge)
 
