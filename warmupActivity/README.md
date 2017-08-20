@@ -25,3 +25,7 @@ Replace "Your Name Here" with your actual name.
 
 8. Compare your site to the below image and make any tweaks. 
 ![Trillium Initial](images/trilliumInitial.png)
+
+## Done
+
+Great job. Please move on to [WarmupActivity Part II](../warmupActivityPartII)
