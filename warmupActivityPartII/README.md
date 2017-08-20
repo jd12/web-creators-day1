@@ -35,5 +35,5 @@ Many websites have multiple websites associated with it. We are going to create 
   
   ## Done 
   
-  Great job. Now move on to [Day 1 Challenge](../day1challenge)
+  Great job. Now move on to [Day 1 Challenge](../day1Challenge)
 
