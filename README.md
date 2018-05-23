@@ -2,6 +2,8 @@
 
 Open [this link](https://www.w3schools.com/html/html_basic.asp) in a new tab by right clicking on the blue text and then selecting `Open Link in New Tab`
 
+Please then move to the [first activity](https://github.com/jd12/web-creators-day1/tree/master/warmupActivity)
+
 ### Web Design Steps
 
 #### Determine the intended Audience
